@@ -48,7 +48,7 @@ The dataset contains time-series data from multiple companies with financial met
 ---
 
 ## 🏗️ Project Structure
-
+```bash
 financial-distress-prediction/
 ├── data/
 ├── Financial Distress.csv # Raw dataset
