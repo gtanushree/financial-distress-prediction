@@ -51,14 +51,16 @@ The dataset contains time-series data from multiple companies with financial met
 
 financial-distress-prediction/
 ├── data/
-│ └── Financial Distress.csv # Raw dataset
+├── Financial Distress.csv # Raw dataset
+│ 
 ├── notebooks/
-│ ├── 01_EDA.ipynb # Exploratory analysis
-│ ├── 02_Classification.ipynb # ML classification models
-│ ├── 03_Regression.ipynb # Regression-based modeling
-│ └── 04_LSTM_TimeSeries.ipynb # LSTM-based model
+├── 01_EDA.ipynb # Exploratory analysis
+├── 02_Classification.ipynb # ML classification models
+├── 03_Regression.ipynb # Regression-based modeling
+├── 04_LSTM_TimeSeries.ipynb # LSTM-based model
+│
 ├── models/
-│ └── best_model.pkl # Saved best-performing model
+├── best_model.pkl # Saved best-performing model
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
